@@ -1,0 +1,15 @@
+{
+    "name": "Reakt",
+    "description": "I <3 React.",
+    "scripts": {
+        "start": "http-server"
+    },
+    "devDependencies": {
+        "gulp": "^3.8.8",
+        "gulp-react": "^1.0.2",
+        "gulp-webpack": "^0.3.0",
+        "webpack": "^1.4.4"
+    },
+    "dependencies": {
+    }
+}
